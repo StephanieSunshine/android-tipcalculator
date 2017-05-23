@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_search.png",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_settings.png",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/drawable-xhdpi/ic_settings.png"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_about.png",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/drawable-xhdpi/ic_about.png"
+    }
+]

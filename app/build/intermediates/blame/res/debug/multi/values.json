@@ -1,0 +1,352 @@
+[
+    {
+        "outputFile": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 128,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endColumn": 51,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 32,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 57,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 38,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 38,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 44,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 50,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 38,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 38,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 75,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 43,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 111,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 71,
+                    "endOffset": 1108
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1113,
+                    "endColumn": 90,
+                    "endOffset": 1199
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1204,
+                    "endColumn": 52,
+                    "endOffset": 1252
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1257,
+                    "endColumn": 44,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endColumn": 48,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 43,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 53,
+                    "endOffset": 1444
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1449,
+                    "endColumn": 54,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endColumn": 60,
+                    "endOffset": 1560
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1565,
+                    "endColumn": 72,
+                    "endOffset": 1633
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1638,
+                    "endColumn": 46,
+                    "endOffset": 1680
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1685,
+                    "endColumn": 52,
+                    "endOffset": 1733
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1738,
+                    "endColumn": 57,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endColumn": 61,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/values/styles.xml"
+                }
+            }
+        ]
+    }
+]

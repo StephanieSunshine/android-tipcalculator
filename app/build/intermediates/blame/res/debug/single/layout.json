@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/build/intermediates/res/merged/debug/layout/activity_tip_calculator.xml",
+        "source": "/home/stephanie/Projects/Personal/Daniel/android/hw6/app/src/main/res/layout/activity_tip_calculator.xml"
+    }
+]
